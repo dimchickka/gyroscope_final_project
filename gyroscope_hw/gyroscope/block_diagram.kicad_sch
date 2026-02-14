@@ -1,0 +1,702 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2a836975-6bcc-4c86-8694-c08f5173e410")
+	(paper "A4")
+	(lib_symbols)
+	(bezier
+		(pts
+			(xy 81.28 41.91) (xy 80.01 40.64) (xy 80.01 40.64) (xy 80.01 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 05221385-8ab4-4e07-8b29-cb8f1c4aa1d3)
+	)
+	(bezier
+		(pts
+			(xy 161.29 101.6) (xy 162.56 102.87) (xy 162.56 102.87) (xy 162.56 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 10f47156-a773-416e-b0ba-4f0f9da0043d)
+	)
+	(bezier
+		(pts
+			(xy 48.26 92.71) (xy 46.99 93.98) (xy 46.99 93.98) (xy 46.99 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 2c5b8948-61a9-4577-842f-e1ed49183d62)
+	)
+	(bezier
+		(pts
+			(xy 161.29 101.6) (xy 160.02 102.87) (xy 160.02 102.87) (xy 160.02 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3685a0fd-9655-46e7-bf54-9998a7207bcd)
+	)
+	(bezier
+		(pts
+			(xy 48.26 111.76) (xy 49.53 113.03) (xy 49.53 113.03) (xy 49.53 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4d81de92-afb1-4451-a350-b4b99f127cc8)
+	)
+	(bezier
+		(pts
+			(xy 191.77 53.34) (xy 193.04 54.61) (xy 193.04 54.61) (xy 193.04 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 74287baf-03da-411f-8de1-e1b662a5b0f6)
+	)
+	(bezier
+		(pts
+			(xy 191.77 53.34) (xy 190.5 54.61) (xy 190.5 54.61) (xy 190.5 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7c0810c2-f2c6-410d-9120-b5c050e5fce3)
+	)
+	(bezier
+		(pts
+			(xy 81.28 41.91) (xy 80.01 43.18) (xy 80.01 43.18) (xy 80.01 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7efcf9e2-708b-4f10-a847-e3f068a3fe23)
+	)
+	(bezier
+		(pts
+			(xy 48.26 92.71) (xy 49.53 93.98) (xy 49.53 93.98) (xy 49.53 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8a1a627b-3321-4c75-8780-3f9893f32e29)
+	)
+	(bezier
+		(pts
+			(xy 48.26 111.76) (xy 46.99 113.03) (xy 46.99 113.03) (xy 46.99 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 965a8b92-4810-4d5f-a8b0-14e082bd7be7)
+	)
+	(text "Питание"
+		(exclude_from_sim no)
+		(at 135.89 84.582 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "3746b6b1-be0d-4215-b462-809ab81a1710")
+	)
+	(text "Данные\n"
+		(exclude_from_sim no)
+		(at 146.304 39.37 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a9b9604b-001e-44c0-8ce0-17a0914f7d65")
+	)
+	(text_box "Автоматический переключатель питания"
+		(exclude_from_sim no)
+		(at 22.86 82.55 0)
+		(size 57.15 10.16)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "01e7332d-9072-4ed4-8648-dd52606fbd8d")
+	)
+	(text_box "Стабилизатор напряжения MCP1700 (MCU Power)"
+		(exclude_from_sim no)
+		(at 90.17 74.93 0)
+		(size 30.48 22.86)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "06237dc0-5e46-4fb3-a9b6-1d8bcc23aab8")
+	)
+	(text_box "Индикатор отображения заряда"
+		(exclude_from_sim no)
+		(at 199.39 130.81 0)
+		(size 30.48 16.51)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "0d75b290-b61c-4c19-bde3-39483377130d")
+	)
+	(text_box "Flash память W25Q32JV"
+		(exclude_from_sim no)
+		(at 245.11 67.31 0)
+		(size 31.75 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "49b02931-cd10-4692-9a0c-1f9c29edf675")
+	)
+	(text_box "Зарядная микросхема TP4056"
+		(exclude_from_sim no)
+		(at 27.94 119.38 0)
+		(size 40.64 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "654d0880-ec96-43be-82fe-31533d574c2c")
+	)
+	(text_box "LiPo аккумулятор"
+		(exclude_from_sim no)
+		(at 33.02 97.79 0)
+		(size 30.48 13.97)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "8097baa6-4dab-4d6d-a1f8-569c49941719")
+	)
+	(text_box "USB-UART преобразователь (опционально)"
+		(exclude_from_sim no)
+		(at 81.28 34.29 0)
+		(size 36.83 16.51)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "9060ca77-49d8-4ed9-b0c1-36ba18da3948")
+	)
+	(text_box "Микроконтроллер (MCU)\n"
+		(exclude_from_sim no)
+		(at 147.32 68.58 0)
+		(size 87.63 33.02)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "c1c1c562-4204-4548-9540-277baa31624f")
+	)
+	(text_box "Кнопка для отображения уровня заряда"
+		(exclude_from_sim no)
+		(at 86.36 135.89 0)
+		(size 27.94 19.05)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "c7be5b97-5753-4e89-96bc-2fbe27a92935")
+	)
+	(text_box "Гироскоп L3G4200D"
+		(exclude_from_sim no)
+		(at 245.11 87.63 0)
+		(size 31.75 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "d3b9cb61-f041-45b4-bc8f-8b954457c1f9")
+	)
+	(text_box "USB Type-C"
+		(exclude_from_sim no)
+		(at 29.21 66.04 0)
+		(size 39.37 10.16)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "f23eb55e-59f0-4769-a325-a45c65699ad8")
+	)
+	(text_box "Делитель напряжения для \nизмерения уровня заряда \nаккамулятора"
+		(exclude_from_sim no)
+		(at 138.43 127 0)
+		(size 46.99 25.4)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "f307f9cf-501d-4f97-88c0-465ff455abda")
+	)
+	(text_box "Bluetooth модуль (опционально)"
+		(exclude_from_sim no)
+		(at 175.26 39.37 0)
+		(size 31.75 13.97)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify top)
+		)
+		(uuid "f6e98d5a-397e-47cd-b571-2833168ce834")
+	)
+	(polyline
+		(pts
+			(xy 48.26 111.76) (xy 48.26 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1075e03d-2aaa-493c-b82c-d58748c6b401")
+	)
+	(polyline
+		(pts
+			(xy 29.21 71.12) (xy 17.78 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "111f0b86-e12e-4954-b65b-a966da6c0975")
+	)
+	(polyline
+		(pts
+			(xy 48.26 115.57) (xy 48.26 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb81973-91b7-425d-89fc-1a1af89e58f0")
+	)
+	(polyline
+		(pts
+			(xy 213.36 101.6) (xy 213.36 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c63dbe6-b942-48df-9a05-c25e5b495a09")
+	)
+	(polyline
+		(pts
+			(xy 135.89 41.91) (xy 157.48 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ce2186c-5d20-4f3a-a4b0-f378380ffcb4")
+	)
+	(polyline
+		(pts
+			(xy 234.95 73.66) (xy 245.11 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32568d09-7bde-474f-a80f-b5b05b151d0b")
+	)
+	(polyline
+		(pts
+			(xy 161.29 101.6) (xy 161.29 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35856e2f-5390-44ee-a9ff-2f80f65d5c7a")
+	)
+	(polyline
+		(pts
+			(xy 17.78 125.73) (xy 27.94 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a6cd4fb-f1e4-4b7a-8c04-e7e83d8e329b")
+	)
+	(polyline
+		(pts
+			(xy 63.5 104.14) (xy 95.25 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42f8eca9-b959-43bf-804d-4d5e6201c124")
+	)
+	(polyline
+		(pts
+			(xy 48.26 41.91) (xy 81.28 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c6bf247-47a6-4733-a5ca-e11edd401a30")
+	)
+	(polyline
+		(pts
+			(xy 114.3 139.7) (xy 123.19 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f0d54d7-b87d-49d8-b03c-ee324360aa4f")
+	)
+	(polyline
+		(pts
+			(xy 80.01 87.63) (xy 90.17 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53392c8a-e45a-4534-adfe-7a0cd946a610")
+	)
+	(polyline
+		(pts
+			(xy 191.77 53.34) (xy 191.77 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59187c9f-908d-4749-8596-0f698068615f")
+	)
+	(polyline
+		(pts
+			(xy 191.77 58.42) (xy 191.77 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ece7b7c-90eb-4d6c-a52e-a1c1f8b218bb")
+	)
+	(polyline
+		(pts
+			(xy 138.43 87.63) (xy 147.32 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "629c1e3e-c108-45f6-b907-f03306a57901")
+	)
+	(polyline
+		(pts
+			(xy 81.28 41.91) (xy 76.2 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74a02654-b7e5-4755-b7b3-9f0e47cad201")
+	)
+	(polyline
+		(pts
+			(xy 161.29 106.68) (xy 161.29 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c436741-a74c-4788-a9ea-248850f2eccf")
+	)
+	(polyline
+		(pts
+			(xy 48.26 66.04) (xy 48.26 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d006775-c5c2-4cff-baa0-8b4b7eb1da84")
+	)
+	(polyline
+		(pts
+			(xy 118.11 41.91) (xy 135.89 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ffd1576-dfa0-414d-a633-d15ba81498d3")
+	)
+	(polyline
+		(pts
+			(xy 95.25 104.14) (xy 95.25 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "902575d3-0c40-44fc-99a2-20fb0370095a")
+	)
+	(polyline
+		(pts
+			(xy 17.78 71.12) (xy 17.78 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0a30981-8aa1-4dee-8adb-b4c63b0dab32")
+	)
+	(polyline
+		(pts
+			(xy 234.95 91.44) (xy 245.11 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba86898a-b004-4a48-8d94-4d1c85fa0ff7")
+	)
+	(polyline
+		(pts
+			(xy 213.36 130.81) (xy 212.09 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caf5bb82-8adc-4c16-9edf-52b00286525e")
+	)
+	(polyline
+		(pts
+			(xy 48.26 76.2) (xy 48.26 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db09c99a-74ba-403e-99e8-5b56ec59f94b")
+	)
+	(polyline
+		(pts
+			(xy 157.48 41.91) (xy 157.48 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1b5b442-fcf5-407c-a827-45b2b9620ca3")
+	)
+	(polyline
+		(pts
+			(xy 120.65 87.63) (xy 138.43 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f31a62ef-c176-4034-8104-852af2400a36")
+	)
+	(polyline
+		(pts
+			(xy 48.26 92.71) (xy 48.26 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f42d130f-c688-4412-b8bb-f2e56ec92528")
+	)
+	(polyline
+		(pts
+			(xy 123.19 139.7) (xy 138.43 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f83efe69-cced-4ed3-afbe-3952072bc59d")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
