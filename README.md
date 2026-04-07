@@ -4,7 +4,12 @@ This project is an autonomous data logging device built around the STM32F103C8T6
 
 Photo Gallery
 <div align="center">
-<img src="фото/device_assembled.jpg" alt="Assembled Device View" width="400" />
+<img src="photo/device_model.png" alt="Model in KiCAD View" width="400" />
+<p><em>The fully assembled Gyroscope Data Logger.</em></p>
+</div>
+
+<div align="center">
+<img src="photo/real_device.png" alt="Assembled Device View" width="400" />
 <p><em>The fully assembled Gyroscope Data Logger.</em></p>
 </div>
 
