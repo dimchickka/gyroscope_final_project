@@ -9,7 +9,7 @@ Photo Gallery
 </div>
 
 <div align="center">
-<img src="photo/real_device.png" alt="Assembled Device View" width="400" />
+<img src="photo/real_device.jpg" alt="Assembled Device View" width="400" />
 <p><em>The fully assembled Gyroscope Data Logger.</em></p>
 </div>
 
