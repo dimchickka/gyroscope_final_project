@@ -17,7 +17,7 @@ Microcontroller: STM32F103C8T6 (Cortex-M3).
 
 Sensor: High-precision Gyroscope (interfaced via I2C).
 
-Data Storage: Reliable data logging to a MicroSD card. Support for .txt or .csv formats (implemented using the FatFs stack).
+Data Storage: Reliable data logging to a MicroSD card
 
 Power System: Portable LiPo battery operation with an integrated USB charging circuit.
 
