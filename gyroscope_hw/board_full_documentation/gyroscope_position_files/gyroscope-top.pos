@@ -1,0 +1,40 @@
+### Footprint positions - created on 2026-02-15T08:34:49+0300 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                     PosX       PosY       Rot  Side
+C2        18pF                 CAP_0603_Silks                          155.7352   -93.5090    0.0000  top
+C4        10u                  CAP_0603_Silks                          159.3052   -87.5590    0.0000  top
+C5        0.1u                 CAP_0603_Silks                          159.3052   -85.5590    0.0000  top
+C6        0.1u                 CAP_0603_Silks                          159.3052   -91.5190  180.0000  top
+C7        0.1u                 CAP_0603_Silks                          164.4352   -83.7290  180.0000  top
+C8        0.1u                 CAP_0603_Silks                          173.2552   -86.7190   90.0000  top
+C9        0.1u                 CAP_0603_Silks                          170.3552   -96.7590    0.0000  top
+C10       10u                  CAP_0603_Silks                          161.5052  -100.4590    0.0000  top
+C11       1u                   CAP_0603_Silks                          161.5052  -103.0590  180.0000  top
+C12       0.1u                 CAP_0603_Silks                          156.0652   -83.7490   90.0000  top
+C13       10u                  CAP_0603_Silks                          146.8952   -83.6690   90.0000  top
+C14       1u                   CAP_0603_Silks                          161.4052   -97.5590  180.0000  top
+C15       2u2                  CAP_0603_Silks                          188.8552   -97.6590    0.0000  top
+C16       10u                  CAP_0603_Silks                          175.7052   -91.1590    0.0000  top
+C17       10n                  CAP_0603_Silks                          155.6300   -96.7000    0.0000  top
+C19       10u                  CAP_0603_Silks                          175.1052   -97.7590    0.0000  top
+C20       0.1u                 CAP_0603_Silks                          134.7052   -92.1090  -90.0000  top
+D1        PMEG2020             SOD323                                  170.5052  -101.7590   90.0000  top
+D2        L3G4200D             LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y   152.6352   -85.9365  -90.0000  top
+DA1       MCP1700              SOT23-3A                                165.3452  -101.2590    0.0000  top
+DA2       TP4056               SO8_150MIL                              180.1052   -94.6590  180.0000  top
+Q1        YJL2305A             SOT23-3                                 175.1212  -101.5700   90.0000  top
+Q2        LED_5050             LED_5050                                140.4452   -83.5490  180.0000  top
+Q3        YJL2305A             SOT23-3                                 156.9412   -99.7890  -90.0000  top
+R2        1k                   RES_0603_Silks                          155.7452   -90.0090    0.0000  top
+R7        4k7                  RES_0603_Silks                          160.8852   -82.1790   90.0000  top
+R8        4k7                  RES_0603_Silks                          151.4552   -81.4990  180.0000  top
+R9        2R0                  RES_0603_Silks                          185.0952   -97.6490    0.0000  top
+R10       0R2                  RES_1206                                180.1052   -88.5590  180.0000  top
+R14       1.2k                 RES_0603_Silks                          175.1052   -93.7590  180.0000  top
+R15       56k                  RES_0603_Silks                          134.6752   -96.5990   90.0000  top
+U1        STM32F103C8Tx        LQFP-48_7x7mm_P0.5mm                    166.8052   -90.2590    0.0000  top
+XL4       DS1144-18-16FS8BNR0  USBC_DS1144-18                          184.6677   -90.9590   90.0000  top
+XL5       CONN_MICROSD         MICROSD_EJECTOR_TFWF1                   145.6452   -90.1915    0.0000  top
+## End

@@ -1,0 +1,22 @@
+### Footprint positions - created on 2026-02-15T08:34:49+0300 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+C1        18pF      CAP_0603_Silks     158.9652   -92.4190  -90.0000  bottom
+C3        0.1u      CAP_0603_Silks     164.0152   -83.8290  180.0000  bottom
+C18       470n      CAP_0603_Silks     151.4352   -93.3790  -90.0000  bottom
+R1        10k       RES_0603_Silks     163.3652   -81.3990    0.0000  bottom
+R3        1k        RES_0603_Silks     146.9452   -86.4590    0.0000  bottom
+R4        1k        RES_0603_Silks     146.9452   -84.4390    0.0000  bottom
+R5        1k        RES_0603_Silks     146.9452   -82.4190    0.0000  bottom
+R6        10k       RES_0603_Silks     167.3052   -98.5890  180.0000  bottom
+R11       5k1       RES_0603_Silks     188.1500   -92.3600   90.0000  bottom
+R12       5k1       RES_0603_Silks     188.2052   -89.2190    0.0000  bottom
+R13       10k       RES_0603_Silks     148.6352   -93.3790  -90.0000  bottom
+R16       100k      RES_0603_Silks     174.4552   -86.8890  180.0000  bottom
+R17       100k      RES_0603_Silks     174.4252   -88.8790    0.0000  bottom
+XL2       CONN_1    Round_1MM5         178.4102  -100.5540  -90.0000  bottom
+XL3       CONN_1    Square_1MM5        182.4102  -100.5540  -90.0000  bottom
+XTAL1     8MHz      03225C4            157.8652   -88.7090  180.0000  bottom
+## End

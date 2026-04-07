@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -133,7 +133,7 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
+        "min_text_height": 0.6,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
@@ -504,10 +504,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "../",
+      "pos_files": "../",
       "specctra_dsn": "",
-      "step": "",
+      "step": "gyroscope.step",
       "svg": "",
       "vrml": ""
     },
@@ -518,13 +518,13 @@
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
-      "field_delimiter": ",",
+      "field_delimiter": ";",
       "keep_line_breaks": false,
       "keep_tabs": false,
-      "name": "CSV",
+      "name": "Точка с запятой",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
-      "string_delimiter": "\""
+      "string_delimiter": "'"
     },
     "bom_presets": [],
     "bom_settings": {
